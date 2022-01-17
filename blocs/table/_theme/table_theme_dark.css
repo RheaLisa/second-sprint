@@ -1,0 +1,8 @@
+.table_theme_dark{
+    display: flex;
+    width: 1100px;
+    margin: auto;
+    flex-wrap: wrap;
+    margin-bottom: 90px;
+  
+   }
