@@ -1,4 +1,3 @@
-@import url(../blocs/page/page.css);
 @import url(../blocs/header/header.css); 
 @import url(../blocs/header/__title/header__title.css);
 @import url(../blocs/header/__subtitle/header__subtitle.css);
@@ -9,7 +8,6 @@
 @import url(../blocs/logo/logo.css);
 @import url(../blocs/logo/_place/logo_place_header.css);
 @import url(../blocs/logo/_place/logo_place_footer.css);
-@import url(../blocs/header/__title/header__title.css);
 @import url(../blocs/cards/cards.css);
 @import url(../blocs/cards/__description/cards__description.css);
 @import url(../blocs/cards/__image/cards__image.css);
